@@ -1,4 +1,4 @@
-# springboot-manager
+# springboot-manager后台管理
 
 ## 介绍
 基于SpringBoot + Thymeleaf + Layui + Apache Shiro + Redis + Mybatis Plus 的后台管理系统  
