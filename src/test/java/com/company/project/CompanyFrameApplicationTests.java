@@ -11,7 +11,7 @@ public class CompanyFrameApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("tests");
+        System.out.println("hello git");
     }
 
 }
