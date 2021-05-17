@@ -96,7 +96,7 @@ public class SysLogAspect {
         } catch (Exception e) {
 
         }
-        //获取request
+        //获取request1
         HttpServletRequest request = HttpContextUtils.getHttpServletRequest();
         //设置IP地址
         sysLog.setIp(IPUtils.getIpAddr(request));
